@@ -1,0 +1,170 @@
+Clock I'm Sending: 0
+New Message: 01
+Sent client 0. System Time: 1678055930.484618, Logical Clock Time: 1
+Received message. Global Time: 1678055930.484697, Message Queue Length: 0, Logical Clock Time: 2
+Clock I'm Sending: 2
+Sent client 0. System Time: 1678055930.484714, Logical Clock Time: 3
+Clock I'm Sending: 3
+Sent client 0. System Time: 1678055930.484742, Logical Clock Time: 4
+Clock I'm Sending: 4
+Sent client 0. System Time: 1678055930.484769, Logical Clock Time: 5
+Clock I'm Sending: 5
+Sent client 0. System Time: 1678055931.485188, Logical Clock Time: 6
+Clock I'm Sending: 6
+Sent client 0. System Time: 1678055931.4852219, Logical Clock Time: 7
+Clock I'm Sending: 7
+Sent client 0. System Time: 1678055931.485255, Logical Clock Time: 8
+Clock I'm Sending: 8
+Sent client 0. System Time: 1678055931.4852731, Logical Clock Time: 9
+Clock I'm Sending: 9
+Sent client 0. System Time: 1678055931.4852989, Logical Clock Time: 10
+Clock I'm Sending: 10
+Sent client 0. System Time: 1678055932.490647, Logical Clock Time: 11
+Clock I'm Sending: 11
+Sent client 0. System Time: 1678055932.4907699, Logical Clock Time: 12
+Clock I'm Sending: 12
+Sent client 0. System Time: 1678055932.490819, Logical Clock Time: 13
+Clock I'm Sending: 13
+Sent client 0. System Time: 1678055932.490999, Logical Clock Time: 14
+Clock I'm Sending: 14
+Sent client 0. System Time: 1678055932.4911401, Logical Clock Time: 15
+Clock I'm Sending: 15
+Sent client 0. System Time: 1678055933.495687, Logical Clock Time: 16
+Clock I'm Sending: 16
+Sent client 0. System Time: 1678055933.495745, Logical Clock Time: 17
+Clock I'm Sending: 17
+Sent client 0. System Time: 1678055933.495788, Logical Clock Time: 18
+Clock I'm Sending: 18
+Sent client 0. System Time: 1678055933.4958231, Logical Clock Time: 19
+Clock I'm Sending: 19
+Sent client 0. System Time: 1678055933.495859, Logical Clock Time: 20
+Clock I'm Sending: 20
+Sent client 0. System Time: 1678055934.4989629, Logical Clock Time: 21
+Clock I'm Sending: 21
+Sent client 0. System Time: 1678055934.499027, Logical Clock Time: 22
+Clock I'm Sending: 22
+Sent client 0. System Time: 1678055934.499209, Logical Clock Time: 23
+Clock I'm Sending: 23
+Sent client 0. System Time: 1678055934.499267, Logical Clock Time: 24
+Clock I'm Sending: 24
+Sent client 0. System Time: 1678055934.4993038, Logical Clock Time: 25
+Clock I'm Sending: 25
+Sent client 0. System Time: 1678055935.502604, Logical Clock Time: 26
+Clock I'm Sending: 26
+Sent client 0. System Time: 1678055935.502625, Logical Clock Time: 27
+Clock I'm Sending: 27
+Sent client 0. System Time: 1678055935.5026371, Logical Clock Time: 28
+Clock I'm Sending: 28
+Sent client 0. System Time: 1678055935.502651, Logical Clock Time: 29
+Clock I'm Sending: 29
+Sent client 0. System Time: 1678055935.5026612, Logical Clock Time: 30
+Clock I'm Sending: 30
+Sent client 0. System Time: 1678055936.504739, Logical Clock Time: 31
+Clock I'm Sending: 31
+Sent client 0. System Time: 1678055936.5047889, Logical Clock Time: 32
+Clock I'm Sending: 32
+Sent client 0. System Time: 1678055936.504818, Logical Clock Time: 33
+Clock I'm Sending: 33
+Sent client 0. System Time: 1678055936.504842, Logical Clock Time: 34
+Clock I'm Sending: 34
+Sent client 0. System Time: 1678055936.5048692, Logical Clock Time: 35
+Clock I'm Sending: 35
+Sent client 0. System Time: 1678055937.508658, Logical Clock Time: 36
+Clock I'm Sending: 36
+Sent client 0. System Time: 1678055937.508715, Logical Clock Time: 37
+Clock I'm Sending: 37
+Sent client 0. System Time: 1678055937.5087519, Logical Clock Time: 38
+Clock I'm Sending: 38
+Sent client 0. System Time: 1678055937.508789, Logical Clock Time: 39
+Clock I'm Sending: 39
+Sent client 0. System Time: 1678055937.508919, Logical Clock Time: 40
+Clock I'm Sending: 40
+Sent client 0. System Time: 1678055938.509856, Logical Clock Time: 41
+Clock I'm Sending: 41
+Sent client 0. System Time: 1678055938.50997, Logical Clock Time: 42
+Clock I'm Sending: 42
+Sent client 0. System Time: 1678055938.5101361, Logical Clock Time: 43
+Clock I'm Sending: 43
+Sent client 0. System Time: 1678055938.5101812, Logical Clock Time: 44
+Clock I'm Sending: 44
+Sent client 0. System Time: 1678055938.5102131, Logical Clock Time: 45
+Clock I'm Sending: 45
+Sent client 0. System Time: 1678055939.515029, Logical Clock Time: 46
+Clock I'm Sending: 46
+Sent client 0. System Time: 1678055939.515082, Logical Clock Time: 47
+Clock I'm Sending: 47
+Sent client 0. System Time: 1678055939.51516, Logical Clock Time: 48
+Clock I'm Sending: 48
+Sent client 0. System Time: 1678055939.5152571, Logical Clock Time: 49
+Clock I'm Sending: 49
+Sent client 0. System Time: 1678055939.515299, Logical Clock Time: 50
+Clock I'm Sending: 50
+Sent client 0. System Time: 1678055940.520254, Logical Clock Time: 51
+Clock I'm Sending: 51
+Sent client 0. System Time: 1678055940.520319, Logical Clock Time: 52
+Clock I'm Sending: 52
+Sent client 0. System Time: 1678055940.520376, Logical Clock Time: 53
+Clock I'm Sending: 53
+Sent client 0. System Time: 1678055940.52068, Logical Clock Time: 54
+Clock I'm Sending: 54
+Sent client 0. System Time: 1678055940.52089, Logical Clock Time: 55
+Clock I'm Sending: 55
+Sent client 0. System Time: 1678055941.5234718, Logical Clock Time: 56
+Clock I'm Sending: 56
+Sent client 0. System Time: 1678055941.523527, Logical Clock Time: 57
+Clock I'm Sending: 57
+Sent client 0. System Time: 1678055941.5235672, Logical Clock Time: 58
+Clock I'm Sending: 58
+Sent client 0. System Time: 1678055941.523602, Logical Clock Time: 59
+Clock I'm Sending: 59
+Sent client 0. System Time: 1678055941.5236459, Logical Clock Time: 60
+Clock I'm Sending: 60
+Sent client 0. System Time: 1678055942.527377, Logical Clock Time: 61
+Clock I'm Sending: 61
+Sent client 0. System Time: 1678055942.5274382, Logical Clock Time: 62
+Clock I'm Sending: 62
+Sent client 0. System Time: 1678055942.527476, Logical Clock Time: 63
+Clock I'm Sending: 63
+Sent client 0. System Time: 1678055942.527582, Logical Clock Time: 64
+Clock I'm Sending: 64
+Sent client 0. System Time: 1678055942.527636, Logical Clock Time: 65
+Clock I'm Sending: 65
+Sent client 0. System Time: 1678055943.532264, Logical Clock Time: 66
+Clock I'm Sending: 66
+Sent client 0. System Time: 1678055943.532319, Logical Clock Time: 67
+Clock I'm Sending: 67
+Sent client 0. System Time: 1678055943.532358, Logical Clock Time: 68
+Clock I'm Sending: 68
+Sent client 0. System Time: 1678055943.5323899, Logical Clock Time: 69
+Clock I'm Sending: 69
+Sent client 0. System Time: 1678055943.532425, Logical Clock Time: 70
+Clock I'm Sending: 70
+Sent client 0. System Time: 1678055944.534636, Logical Clock Time: 71
+Clock I'm Sending: 71
+Sent client 0. System Time: 1678055944.534671, Logical Clock Time: 72
+Clock I'm Sending: 72
+Sent client 0. System Time: 1678055944.534694, Logical Clock Time: 73
+Clock I'm Sending: 73
+Sent client 0. System Time: 1678055944.5347111, Logical Clock Time: 74
+Clock I'm Sending: 74
+Sent client 0. System Time: 1678055944.5347269, Logical Clock Time: 75
+Clock I'm Sending: 75
+Sent client 0. System Time: 1678055945.5393229, Logical Clock Time: 76
+Clock I'm Sending: 76
+Sent client 0. System Time: 1678055945.539416, Logical Clock Time: 77
+Clock I'm Sending: 77
+Sent client 0. System Time: 1678055945.539444, Logical Clock Time: 78
+Clock I'm Sending: 78
+Sent client 0. System Time: 1678055945.539459, Logical Clock Time: 79
+Clock I'm Sending: 79
+Sent client 0. System Time: 1678055945.539474, Logical Clock Time: 80
+Clock I'm Sending: 80
+Sent client 0. System Time: 1678055946.543458, Logical Clock Time: 81
+Clock I'm Sending: 81
+Sent client 0. System Time: 1678055946.543492, Logical Clock Time: 82
+Clock I'm Sending: 82
+Sent client 0. System Time: 1678055946.5435112, Logical Clock Time: 83
+Clock I'm Sending: 83
+Sent client 0. System Time: 1678055946.543527, Logical Clock Time: 84
+Clock I'm Sending: 84
+Sent client 0. System Time: 1678055946.543543, Logical Clock Time: 85
