@@ -1,91 +1,40 @@
 Clock I'm Sending: 0
-Sent client 0. System Time: 1678055930.4828238, Logical Clock Time: 1
-Clock I'm Sending: 1
-Sent client 0. System Time: 1678055930.482872, Logical Clock Time: 2
-New Message: 0
-New Message: 234
-Received message. Global Time: 1678055931.485117, Message Queue Length: 1, Logical Clock Time: 3
-Received message. Global Time: 1678055931.4851332, Message Queue Length: 0, Logical Clock Time: 235
-New Message: 5
-New Message: 67
-New Message: 89
-Received message. Global Time: 1678055932.4903848, Message Queue Length: 2, Logical Clock Time: 236
-Received message. Global Time: 1678055932.4904478, Message Queue Length: 1, Logical Clock Time: 237
-New Message: 10
-New Message: 11
-New Message: 12
-New Message: 13
-New Message: 14
-Received message. Global Time: 1678055933.4956422, Message Queue Length: 5, Logical Clock Time: 238
-Received message. Global Time: 1678055933.4956968, Message Queue Length: 4, Logical Clock Time: 239
-New Message: 151617
-New Message: 18
-New Message: 19
-Received message. Global Time: 1678055934.498912, Message Queue Length: 6, Logical Clock Time: 240
-Received message. Global Time: 1678055934.4989839, Message Queue Length: 5, Logical Clock Time: 241
+Sent client 0. System Time: 1678056993.781319, Logical Clock Time: 1
+New Message: 1
+New Message: 2
+New Message: 3
+New Message: 4
+Received message. Global Time: 1678056994.7864032, Message Queue Length: 3, Logical Clock Time: 2
+New Message: 5678
+New Message: 9
+Received message. Global Time: 1678056995.788577, Message Queue Length: 4, Logical Clock Time: 3
+New Message: 1011121314
+Received message. Global Time: 1678056996.791935, Message Queue Length: 4, Logical Clock Time: 4
+New Message: 1516
+New Message: 17
+New Message: 1819
+Received message. Global Time: 1678056997.797157, Message Queue Length: 6, Logical Clock Time: 5
 New Message: 20
 New Message: 21
 New Message: 22
-New Message: 2324
-Received message. Global Time: 1678055935.5025432, Message Queue Length: 8, Logical Clock Time: 242
-Received message. Global Time: 1678055935.50256, Message Queue Length: 7, Logical Clock Time: 243
+New Message: 23
+New Message: 24
+Received message. Global Time: 1678056998.802397, Message Queue Length: 10, Logical Clock Time: 5679
 New Message: 25
-New Message: 2627
+New Message: 26
+New Message: 27
 New Message: 2829
-Received message. Global Time: 1678055936.504689, Message Queue Length: 9, Logical Clock Time: 151618
-Received message. Global Time: 1678055936.5047371, Message Queue Length: 8, Logical Clock Time: 151619
+Received message. Global Time: 1678056999.80443, Message Queue Length: 13, Logical Clock Time: 5680
 New Message: 30
 New Message: 313233
 New Message: 34
-Received message. Global Time: 1678055937.5086222, Message Queue Length: 10, Logical Clock Time: 151620
-Received message. Global Time: 1678055937.508678, Message Queue Length: 9, Logical Clock Time: 151621
+Received message. Global Time: 1678057000.808587, Message Queue Length: 15, Logical Clock Time: 1011121315
 New Message: 35
-New Message: 363738
-New Message: 39
-Received message. Global Time: 1678055938.510205, Message Queue Length: 11, Logical Clock Time: 151622
-Received message. Global Time: 1678055938.510268, Message Queue Length: 10, Logical Clock Time: 151623
+New Message: 36
+New Message: 37
+New Message: 3839
+Received message. Global Time: 1678057001.8115819, Message Queue Length: 18, Logical Clock Time: 1011121316
 New Message: 40
-New Message: 41424344
-Received message. Global Time: 1678055939.514963, Message Queue Length: 11, Logical Clock Time: 151624
-Received message. Global Time: 1678055939.515015, Message Queue Length: 10, Logical Clock Time: 151625
-New Message: 45
-New Message: 4647
-New Message: 48
-New Message: 49
-Received message. Global Time: 1678055940.520216, Message Queue Length: 13, Logical Clock Time: 151626
-Received message. Global Time: 1678055940.5202858, Message Queue Length: 12, Logical Clock Time: 151627
-New Message: 50
-New Message: 5152
-New Message: 53
-New Message: 54
-Received message. Global Time: 1678055941.523433, Message Queue Length: 15, Logical Clock Time: 151628
-Received message. Global Time: 1678055941.5234911, Message Queue Length: 14, Logical Clock Time: 313234
-New Message: 55
-New Message: 565758
-New Message: 59
-Received message. Global Time: 1678055942.527332, Message Queue Length: 16, Logical Clock Time: 313235
-Received message. Global Time: 1678055942.527402, Message Queue Length: 15, Logical Clock Time: 313236
-New Message: 60
-New Message: 6162
-New Message: 6364
-Received message. Global Time: 1678055943.532223, Message Queue Length: 17, Logical Clock Time: 363739
-Received message. Global Time: 1678055943.53228, Message Queue Length: 16, Logical Clock Time: 363740
-New Message: 65
-New Message: 666768
-New Message: 69
-Received message. Global Time: 1678055944.5346, Message Queue Length: 18, Logical Clock Time: 363741
-Received message. Global Time: 1678055944.534632, Message Queue Length: 17, Logical Clock Time: 41424345
-New Message: 70
-New Message: 717273
-New Message: 74
-Received message. Global Time: 1678055945.539252, Message Queue Length: 19, Logical Clock Time: 41424346
-Received message. Global Time: 1678055945.539331, Message Queue Length: 18, Logical Clock Time: 41424347
-New Message: 75
-New Message: 76
-New Message: 7778
-New Message: 79
-New Message: 80
-New Message: 81828384
-New Message: 85
-New Message: 868788
-New Message: 89
+New Message: 41
+New Message: 4243
+New Message: 44

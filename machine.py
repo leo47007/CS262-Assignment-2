@@ -7,7 +7,7 @@ Usage: python3 machine.py MACHINE_NUMBER
 from collections import deque
 from random import randint
 from select import select
-from socket import socket, AF_INET, SOCK_STREAM, SOL_SOCKET, SO_REUSEADDR
+from socket import socket, AF_INET, SOCK_STREAM, SOL_SOCKET, SO_SNDBUF
 import sys
 from threading import Thread
 from time import sleep, time
@@ -39,6 +39,7 @@ def create_client_sockets(my_machine_number):
     for num in range(my_machine_number):
         port   = BASE_PORT * (num+1) + my_machine_number
         client = socket(family=AF_INET, type=SOCK_STREAM) # creates client socket with IPv4 and TCP
+        # client.setsockopt(SOL_SOCKET, SO_SNDBUF, BUFFER_SIZE)
         client.connect((IP_ADDRESS, port)) # connect to server socket
         client_sockets.append(client)
         print('({}-{}) client socket established @ {}:{}.'.format(num, my_machine_number, IP_ADDRESS, port))
@@ -78,6 +79,7 @@ def main():
     # Make sure all server-client connections are made.
     for server_sock in server_sockets:
         client_sock, client_addr = server_sock.accept()
+        # client_sock.setsockopt(SOL_SOCKET, SO_SNDBUF, BUFFER_SIZE)   
         client_sockets.append(client_sock)
         print ('{}:{} connected'.format(client_addr[0], client_addr[1]))
 
@@ -87,6 +89,7 @@ def main():
     while True:
         t_start = time()
         for ins_num in range(clock_rate):
+            print('Executing INS {}'.format(ins_num))
             if message_queue:
                 message = message_queue.popleft()
                 message_clock = int(message)
@@ -100,7 +103,7 @@ def main():
                 if dice == 1:
                     try:
                         log_file.write('Clock I\'m Sending: '+str(logical_clock)+'\n')
-                        client_sockets[0].send(str(logical_clock).encode(encoding=ENCODING))
+                        print('Send size', client_sockets[0].send(str(logical_clock).encode(encoding=ENCODING)))
                     except:
                         print('DICE 1 ERROR')
                     logical_clock += 1
