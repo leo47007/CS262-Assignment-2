@@ -1,0 +1,18 @@
+Clock Rate is 1
+Sent client 0. System Time: 1678215897.153923, Logical Clock Time: 1
+Received message. Global Time: 1678215898.1572092, Message Queue Length: 4, Logical Clock Time: 2
+Received message. Global Time: 1678215899.1601129, Message Queue Length: 7, Logical Clock Time: 3
+Received message. Global Time: 1678215900.162967, Message Queue Length: 11, Logical Clock Time: 4
+Received message. Global Time: 1678215901.16816, Message Queue Length: 15, Logical Clock Time: 5
+Received message. Global Time: 1678215902.17047, Message Queue Length: 19, Logical Clock Time: 6
+Received message. Global Time: 1678215903.173558, Message Queue Length: 23, Logical Clock Time: 7
+Received message. Global Time: 1678215904.1764429, Message Queue Length: 27, Logical Clock Time: 8
+Received message. Global Time: 1678215905.178886, Message Queue Length: 31, Logical Clock Time: 9
+Received message. Global Time: 1678215906.181559, Message Queue Length: 35, Logical Clock Time: 10
+Received message. Global Time: 1678215907.184374, Message Queue Length: 39, Logical Clock Time: 11
+Received message. Global Time: 1678215908.186549, Message Queue Length: 43, Logical Clock Time: 12
+Received message. Global Time: 1678215909.189574, Message Queue Length: 47, Logical Clock Time: 13
+Received message. Global Time: 1678215910.1922371, Message Queue Length: 51, Logical Clock Time: 14
+Received message. Global Time: 1678215911.196949, Message Queue Length: 55, Logical Clock Time: 15
+Received message. Global Time: 1678215912.1998541, Message Queue Length: 59, Logical Clock Time: 16
+Received message. Global Time: 1678215913.203619, Message Queue Length: 63, Logical Clock Time: 17
