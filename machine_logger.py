@@ -15,7 +15,7 @@ from time import sleep, time
 # Constants/configurations
 ENCODING           = 'utf-8' # message encoding
 BUFFER_SIZE        = 2048 # fixed 2KB buffer size
-IP_ADDRESS         = '10.250.189.114' # REPLACE ME with output of ipconfig getifaddr en0
+IP_ADDRESS         = '10.250.214.59' # REPLACE ME with output of ipconfig getifaddr en0
 BASE_PORT          = 1234 # base port of the first model machine
 TOTAL_NUM_MACHINES = 3 # total number of model machines
 
@@ -71,7 +71,7 @@ def main():
     client_sockets = create_client_sockets(machine_number)
 
     # Local data structures
-    log_file      = open("log_{}.txt".format(machine_number), "w")
+    log_file      = open("log_less_internal{}.txt".format(machine_number), "w")
     clock_rate    = randint(1, 6)
     print ('Clock Rate is {}'.format(clock_rate))
     log_file.write('Clock Rate is {}\n'.format(clock_rate))
@@ -100,7 +100,7 @@ def main():
                 # log_file.write("Received message. Global Time: {}, Message Queue Length: {}, Logical Clock Time: {}\n".format(time(), len(message_queue), logical_clock))
                 log_file.write("{},{},{}\n".format(logical_clock, time(), len(message_queue)))
             else:
-                dice = randint(1, 10)
+                dice = randint(1, 4)
                 if dice == 1:
                     try:
                         # log_file.write('Clock I\'m Sending: '+str(logical_clock)+'\n')
