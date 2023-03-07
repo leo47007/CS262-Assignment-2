@@ -97,7 +97,8 @@ def main():
                 # print('Message, MSG_CLK, L_CLK: {}, {}, {}'.format(message, message_clock, logical_clock))
                 logical_clock = max(logical_clock, message_clock) + 1
                 # print("Received message. Global Time: {}, Message Queue Length: {}, Logical Clock Time: {}\n".format(time(), len(message_queue), logical_clock))
-                log_file.write("Received message. Global Time: {}, Message Queue Length: {}, Logical Clock Time: {}\n".format(time(), len(message_queue), logical_clock))
+                # log_file.write("Received message. Global Time: {}, Message Queue Length: {}, Logical Clock Time: {}\n".format(time(), len(message_queue), logical_clock))
+                log_file.write("{},{},{}\n".format(logical_clock, time(), len(message_queue)))
             else:
                 dice = randint(1, 10)
                 if dice == 1:
@@ -107,14 +108,14 @@ def main():
                     except:
                         print('DICE 1 ERROR')
                     logical_clock += 1
-                    log_file.write("Sent client 0. System Time: {}, Logical Clock Time: {}\n".format(time(), logical_clock))
+                    # log_file.write("Sent client 0. System Time: {}, Logical Clock Time: {}\n".format(time(), logical_clock))
                 elif dice == 2:
                     try:
                         client_sockets[1].send('{}.'.format(logical_clock).encode(encoding=ENCODING))
                     except:
                         print('DICE 2 ERROR')
                     logical_clock += 1
-                    log_file.write("Sent client 1. System Time: {}, Logical Clock Time: {}\n".format(time(), logical_clock))
+                    # log_file.write("Sent client 1. System Time: {}, Logical Clock Time: {}\n".format(time(), logical_clock))
                 elif dice == 3:
                     try:
                         client_sockets[0].send('{}.'.format(logical_clock).encode(encoding=ENCODING))
@@ -122,10 +123,11 @@ def main():
                     except:
                         print('DICE 3 ERROR')
                     logical_clock += 1
-                    log_file.write("Sent to clients 0, 1. System Time: {}, Logical Clock Time: {}\n".format(time(), logical_clock))
+                    # log_file.write("Sent to clients 0, 1. System Time: {}, Logical Clock Time: {}\n".format(time(), logical_clock))
                 else:
                     logical_clock += 1
-                    log_file.write("Internal event. System Time: {}, Logical Clock Time: {}\n".format(time(), logical_clock))
+                    # log_file.write("Internal event. System Time: {}, Logical Clock Time: {}\n".format(time(), logical_clock))
+                log_file.write("{},{},{}\n".format(logical_clock, time(), len(message_queue)))
         t_end = time()
         t_sleep = 1.0 - (t_end - t_start)
         sleep(t_sleep)
