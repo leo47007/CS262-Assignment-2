@@ -1,0 +1,823 @@
+Clock Rate is 6
+Sent client 0. System Time: 1678250222.908406, Logical Clock Time: 1
+Internal event. System Time: 1678250222.908424, Logical Clock Time: 2
+Sent client 1. System Time: 1678250222.908444, Logical Clock Time: 3
+Internal event. System Time: 1678250222.908448, Logical Clock Time: 4
+Internal event. System Time: 1678250222.908451, Logical Clock Time: 5
+Internal event. System Time: 1678250222.908454, Logical Clock Time: 6
+Internal event. System Time: 1678250223.9088168, Logical Clock Time: 7
+Internal event. System Time: 1678250223.908832, Logical Clock Time: 8
+Internal event. System Time: 1678250223.9088361, Logical Clock Time: 9
+Sent client 1. System Time: 1678250223.908878, Logical Clock Time: 10
+Sent to clients 0, 1. System Time: 1678250223.908897, Logical Clock Time: 11
+Sent client 1. System Time: 1678250223.908907, Logical Clock Time: 12
+Sent client 0. System Time: 1678250224.91034, Logical Clock Time: 13
+Internal event. System Time: 1678250224.9103649, Logical Clock Time: 14
+Internal event. System Time: 1678250224.910372, Logical Clock Time: 15
+Internal event. System Time: 1678250224.910377, Logical Clock Time: 16
+Internal event. System Time: 1678250224.910382, Logical Clock Time: 17
+Internal event. System Time: 1678250224.910387, Logical Clock Time: 18
+Received message. Global Time: 1678250225.914309, Message Queue Length: 0, Logical Clock Time: 19
+Sent to clients 0, 1. System Time: 1678250225.914577, Logical Clock Time: 20
+Internal event. System Time: 1678250225.914631, Logical Clock Time: 21
+Sent client 1. System Time: 1678250225.91469, Logical Clock Time: 22
+Internal event. System Time: 1678250225.9147892, Logical Clock Time: 23
+Internal event. System Time: 1678250225.914805, Logical Clock Time: 24
+Received message. Global Time: 1678250226.919044, Message Queue Length: 0, Logical Clock Time: 25
+Sent client 0. System Time: 1678250226.9191182, Logical Clock Time: 26
+Internal event. System Time: 1678250226.91913, Logical Clock Time: 27
+Internal event. System Time: 1678250226.919136, Logical Clock Time: 28
+Sent to clients 0, 1. System Time: 1678250226.919163, Logical Clock Time: 29
+Sent to clients 0, 1. System Time: 1678250226.919184, Logical Clock Time: 30
+Received message. Global Time: 1678250227.9214652, Message Queue Length: 1, Logical Clock Time: 33
+Received message. Global Time: 1678250227.921474, Message Queue Length: 0, Logical Clock Time: 34
+Sent to clients 0, 1. System Time: 1678250227.92153, Logical Clock Time: 35
+Internal event. System Time: 1678250227.921537, Logical Clock Time: 36
+Internal event. System Time: 1678250227.92154, Logical Clock Time: 37
+Sent client 0. System Time: 1678250227.921551, Logical Clock Time: 38
+Received message. Global Time: 1678250228.9228642, Message Queue Length: 0, Logical Clock Time: 39
+Internal event. System Time: 1678250228.9229078, Logical Clock Time: 40
+Sent to clients 0, 1. System Time: 1678250228.923031, Logical Clock Time: 41
+Internal event. System Time: 1678250228.92305, Logical Clock Time: 42
+Internal event. System Time: 1678250228.923059, Logical Clock Time: 43
+Internal event. System Time: 1678250228.9230678, Logical Clock Time: 44
+Received message. Global Time: 1678250229.926579, Message Queue Length: 0, Logical Clock Time: 45
+Sent to clients 0, 1. System Time: 1678250229.92673, Logical Clock Time: 46
+Sent client 1. System Time: 1678250229.92677, Logical Clock Time: 47
+Sent client 1. System Time: 1678250229.9267972, Logical Clock Time: 48
+Internal event. System Time: 1678250229.926809, Logical Clock Time: 49
+Internal event. System Time: 1678250229.926819, Logical Clock Time: 50
+Received message. Global Time: 1678250230.929454, Message Queue Length: 0, Logical Clock Time: 51
+Sent to clients 0, 1. System Time: 1678250230.929605, Logical Clock Time: 52
+Internal event. System Time: 1678250230.929625, Logical Clock Time: 53
+Internal event. System Time: 1678250230.9296372, Logical Clock Time: 54
+Internal event. System Time: 1678250230.9296482, Logical Clock Time: 55
+Internal event. System Time: 1678250230.929657, Logical Clock Time: 56
+Received message. Global Time: 1678250231.9337118, Message Queue Length: 1, Logical Clock Time: 57
+Received message. Global Time: 1678250231.933738, Message Queue Length: 0, Logical Clock Time: 58
+Internal event. System Time: 1678250231.933768, Logical Clock Time: 59
+Sent to clients 0, 1. System Time: 1678250231.9339, Logical Clock Time: 60
+Internal event. System Time: 1678250231.93392, Logical Clock Time: 61
+Internal event. System Time: 1678250231.933932, Logical Clock Time: 62
+Received message. Global Time: 1678250232.934357, Message Queue Length: 0, Logical Clock Time: 64
+Internal event. System Time: 1678250232.934402, Logical Clock Time: 65
+Sent client 1. System Time: 1678250232.934499, Logical Clock Time: 66
+Internal event. System Time: 1678250232.934516, Logical Clock Time: 67
+Internal event. System Time: 1678250232.934526, Logical Clock Time: 68
+Sent to clients 0, 1. System Time: 1678250232.934578, Logical Clock Time: 69
+Internal event. System Time: 1678250233.9345999, Logical Clock Time: 70
+Internal event. System Time: 1678250233.9346108, Logical Clock Time: 71
+Internal event. System Time: 1678250233.9346151, Logical Clock Time: 72
+Sent client 1. System Time: 1678250233.934658, Logical Clock Time: 73
+Sent client 0. System Time: 1678250233.9346719, Logical Clock Time: 74
+Internal event. System Time: 1678250233.934676, Logical Clock Time: 75
+Sent client 0. System Time: 1678250234.9384089, Logical Clock Time: 76
+Sent client 1. System Time: 1678250234.938464, Logical Clock Time: 77
+Internal event. System Time: 1678250234.9384809, Logical Clock Time: 78
+Internal event. System Time: 1678250234.9384918, Logical Clock Time: 79
+Internal event. System Time: 1678250234.9385228, Logical Clock Time: 80
+Sent client 1. System Time: 1678250234.938559, Logical Clock Time: 81
+Received message. Global Time: 1678250235.9423769, Message Queue Length: 0, Logical Clock Time: 84
+Internal event. System Time: 1678250235.942422, Logical Clock Time: 85
+Sent client 0. System Time: 1678250235.942515, Logical Clock Time: 86
+Sent client 1. System Time: 1678250235.9425569, Logical Clock Time: 87
+Internal event. System Time: 1678250235.942571, Logical Clock Time: 88
+Internal event. System Time: 1678250235.942581, Logical Clock Time: 89
+Received message. Global Time: 1678250236.9427142, Message Queue Length: 0, Logical Clock Time: 92
+Internal event. System Time: 1678250236.942774, Logical Clock Time: 93
+Sent client 1. System Time: 1678250236.943043, Logical Clock Time: 94
+Internal event. System Time: 1678250236.943069, Logical Clock Time: 95
+Sent to clients 0, 1. System Time: 1678250236.943315, Logical Clock Time: 96
+Sent client 0. System Time: 1678250236.9433541, Logical Clock Time: 97
+Internal event. System Time: 1678250237.946589, Logical Clock Time: 98
+Sent client 0. System Time: 1678250237.94668, Logical Clock Time: 99
+Internal event. System Time: 1678250237.946699, Logical Clock Time: 100
+Internal event. System Time: 1678250237.946709, Logical Clock Time: 101
+Sent to clients 0, 1. System Time: 1678250237.94676, Logical Clock Time: 102
+Sent client 1. System Time: 1678250237.946787, Logical Clock Time: 103
+Received message. Global Time: 1678250238.951402, Message Queue Length: 0, Logical Clock Time: 107
+Internal event. System Time: 1678250238.951443, Logical Clock Time: 108
+Sent client 0. System Time: 1678250238.951505, Logical Clock Time: 109
+Internal event. System Time: 1678250238.951514, Logical Clock Time: 110
+Sent client 1. System Time: 1678250238.951535, Logical Clock Time: 111
+Internal event. System Time: 1678250238.951542, Logical Clock Time: 112
+Received message. Global Time: 1678250239.95579, Message Queue Length: 1, Logical Clock Time: 113
+Received message. Global Time: 1678250239.9558132, Message Queue Length: 0, Logical Clock Time: 115
+Internal event. System Time: 1678250239.955838, Logical Clock Time: 116
+Internal event. System Time: 1678250239.955848, Logical Clock Time: 117
+Internal event. System Time: 1678250239.9558542, Logical Clock Time: 118
+Internal event. System Time: 1678250239.95586, Logical Clock Time: 119
+Received message. Global Time: 1678250240.959402, Message Queue Length: 0, Logical Clock Time: 120
+Sent client 1. System Time: 1678250240.9594681, Logical Clock Time: 121
+Internal event. System Time: 1678250240.959476, Logical Clock Time: 122
+Internal event. System Time: 1678250240.959481, Logical Clock Time: 123
+Internal event. System Time: 1678250240.9594848, Logical Clock Time: 124
+Internal event. System Time: 1678250240.959488, Logical Clock Time: 125
+Received message. Global Time: 1678250241.9626381, Message Queue Length: 0, Logical Clock Time: 126
+Sent client 0. System Time: 1678250241.962764, Logical Clock Time: 127
+Internal event. System Time: 1678250241.962785, Logical Clock Time: 128
+Internal event. System Time: 1678250241.962794, Logical Clock Time: 129
+Sent client 0. System Time: 1678250241.962821, Logical Clock Time: 130
+Internal event. System Time: 1678250241.962832, Logical Clock Time: 131
+Received message. Global Time: 1678250242.966208, Message Queue Length: 1, Logical Clock Time: 132
+Received message. Global Time: 1678250242.966221, Message Queue Length: 0, Logical Clock Time: 133
+Sent to clients 0, 1. System Time: 1678250242.966325, Logical Clock Time: 134
+Sent to clients 0, 1. System Time: 1678250242.966398, Logical Clock Time: 135
+Sent client 0. System Time: 1678250242.966414, Logical Clock Time: 136
+Sent to clients 0, 1. System Time: 1678250242.966906, Logical Clock Time: 137
+Received message. Global Time: 1678250243.970873, Message Queue Length: 0, Logical Clock Time: 138
+Internal event. System Time: 1678250243.970897, Logical Clock Time: 139
+Internal event. System Time: 1678250243.9709032, Logical Clock Time: 140
+Sent to clients 0, 1. System Time: 1678250243.9709609, Logical Clock Time: 141
+Sent client 1. System Time: 1678250243.970974, Logical Clock Time: 142
+Internal event. System Time: 1678250243.970979, Logical Clock Time: 143
+Received message. Global Time: 1678250244.97455, Message Queue Length: 0, Logical Clock Time: 146
+Sent client 0. System Time: 1678250244.974682, Logical Clock Time: 147
+Internal event. System Time: 1678250244.974709, Logical Clock Time: 148
+Internal event. System Time: 1678250244.974721, Logical Clock Time: 149
+Internal event. System Time: 1678250244.974731, Logical Clock Time: 150
+Internal event. System Time: 1678250244.974742, Logical Clock Time: 151
+Received message. Global Time: 1678250245.975429, Message Queue Length: 0, Logical Clock Time: 152
+Internal event. System Time: 1678250245.975452, Logical Clock Time: 153
+Sent client 0. System Time: 1678250245.975504, Logical Clock Time: 154
+Internal event. System Time: 1678250245.975512, Logical Clock Time: 155
+Internal event. System Time: 1678250245.975515, Logical Clock Time: 156
+Sent client 1. System Time: 1678250245.975532, Logical Clock Time: 157
+Sent to clients 0, 1. System Time: 1678250246.9804318, Logical Clock Time: 158
+Internal event. System Time: 1678250246.980469, Logical Clock Time: 159
+Sent to clients 0, 1. System Time: 1678250246.980649, Logical Clock Time: 160
+Internal event. System Time: 1678250246.980693, Logical Clock Time: 161
+Internal event. System Time: 1678250246.980709, Logical Clock Time: 162
+Internal event. System Time: 1678250246.980722, Logical Clock Time: 163
+Sent client 0. System Time: 1678250247.9852328, Logical Clock Time: 164
+Internal event. System Time: 1678250247.9852679, Logical Clock Time: 165
+Internal event. System Time: 1678250247.985282, Logical Clock Time: 166
+Sent client 0. System Time: 1678250247.985319, Logical Clock Time: 167
+Sent client 0. System Time: 1678250247.985347, Logical Clock Time: 168
+Internal event. System Time: 1678250247.9853609, Logical Clock Time: 169
+Received message. Global Time: 1678250248.988032, Message Queue Length: 0, Logical Clock Time: 173
+Sent client 0. System Time: 1678250248.988127, Logical Clock Time: 174
+Sent to clients 0, 1. System Time: 1678250248.988179, Logical Clock Time: 175
+Sent to clients 0, 1. System Time: 1678250248.988208, Logical Clock Time: 176
+Internal event. System Time: 1678250248.9882162, Logical Clock Time: 177
+Internal event. System Time: 1678250248.988223, Logical Clock Time: 178
+Received message. Global Time: 1678250249.991617, Message Queue Length: 1, Logical Clock Time: 179
+Received message. Global Time: 1678250249.991628, Message Queue Length: 0, Logical Clock Time: 180
+Sent to clients 0, 1. System Time: 1678250249.991754, Logical Clock Time: 181
+Internal event. System Time: 1678250249.991766, Logical Clock Time: 182
+Sent to clients 0, 1. System Time: 1678250249.991787, Logical Clock Time: 183
+Internal event. System Time: 1678250249.991791, Logical Clock Time: 184
+Received message. Global Time: 1678250250.9949608, Message Queue Length: 2, Logical Clock Time: 185
+Received message. Global Time: 1678250250.994972, Message Queue Length: 1, Logical Clock Time: 186
+Received message. Global Time: 1678250250.994975, Message Queue Length: 0, Logical Clock Time: 187
+Internal event. System Time: 1678250250.994987, Logical Clock Time: 188
+Internal event. System Time: 1678250250.994991, Logical Clock Time: 189
+Sent to clients 0, 1. System Time: 1678250250.9950569, Logical Clock Time: 190
+Received message. Global Time: 1678250251.999753, Message Queue Length: 1, Logical Clock Time: 191
+Received message. Global Time: 1678250251.999779, Message Queue Length: 0, Logical Clock Time: 192
+Internal event. System Time: 1678250251.999809, Logical Clock Time: 193
+Sent to clients 0, 1. System Time: 1678250251.999944, Logical Clock Time: 194
+Internal event. System Time: 1678250251.999968, Logical Clock Time: 195
+Internal event. System Time: 1678250251.9999812, Logical Clock Time: 196
+Sent client 1. System Time: 1678250253.001205, Logical Clock Time: 197
+Internal event. System Time: 1678250253.001232, Logical Clock Time: 198
+Internal event. System Time: 1678250253.001236, Logical Clock Time: 199
+Internal event. System Time: 1678250253.00124, Logical Clock Time: 200
+Internal event. System Time: 1678250253.0012429, Logical Clock Time: 201
+Sent to clients 0, 1. System Time: 1678250253.0012648, Logical Clock Time: 202
+Received message. Global Time: 1678250254.0046358, Message Queue Length: 1, Logical Clock Time: 203
+Received message. Global Time: 1678250254.0046551, Message Queue Length: 0, Logical Clock Time: 204
+Internal event. System Time: 1678250254.004676, Logical Clock Time: 205
+Internal event. System Time: 1678250254.0046852, Logical Clock Time: 206
+Internal event. System Time: 1678250254.004692, Logical Clock Time: 207
+Internal event. System Time: 1678250254.004698, Logical Clock Time: 208
+Received message. Global Time: 1678250255.007838, Message Queue Length: 0, Logical Clock Time: 209
+Sent to clients 0, 1. System Time: 1678250255.007911, Logical Clock Time: 210
+Sent client 1. System Time: 1678250255.00794, Logical Clock Time: 211
+Internal event. System Time: 1678250255.007947, Logical Clock Time: 212
+Internal event. System Time: 1678250255.007953, Logical Clock Time: 213
+Internal event. System Time: 1678250255.007957, Logical Clock Time: 214
+Received message. Global Time: 1678250256.0085151, Message Queue Length: 0, Logical Clock Time: 215
+Sent client 1. System Time: 1678250256.008577, Logical Clock Time: 216
+Sent client 1. System Time: 1678250256.0085928, Logical Clock Time: 217
+Sent client 0. System Time: 1678250256.008607, Logical Clock Time: 218
+Internal event. System Time: 1678250256.0086122, Logical Clock Time: 219
+Internal event. System Time: 1678250256.008616, Logical Clock Time: 220
+Internal event. System Time: 1678250257.0120409, Logical Clock Time: 221
+Internal event. System Time: 1678250257.012058, Logical Clock Time: 222
+Internal event. System Time: 1678250257.0120661, Logical Clock Time: 223
+Internal event. System Time: 1678250257.012073, Logical Clock Time: 224
+Internal event. System Time: 1678250257.012078, Logical Clock Time: 225
+Internal event. System Time: 1678250257.012084, Logical Clock Time: 226
+Sent to clients 0, 1. System Time: 1678250258.015281, Logical Clock Time: 227
+Internal event. System Time: 1678250258.015299, Logical Clock Time: 228
+Sent client 0. System Time: 1678250258.015318, Logical Clock Time: 229
+Internal event. System Time: 1678250258.015326, Logical Clock Time: 230
+Internal event. System Time: 1678250258.015332, Logical Clock Time: 231
+Internal event. System Time: 1678250258.015338, Logical Clock Time: 232
+Received message. Global Time: 1678250259.0178492, Message Queue Length: 1, Logical Clock Time: 233
+Received message. Global Time: 1678250259.018014, Message Queue Length: 0, Logical Clock Time: 234
+Internal event. System Time: 1678250259.018052, Logical Clock Time: 235
+Internal event. System Time: 1678250259.018067, Logical Clock Time: 236
+Sent client 0. System Time: 1678250259.018166, Logical Clock Time: 237
+Sent client 1. System Time: 1678250259.018214, Logical Clock Time: 238
+Received message. Global Time: 1678250260.017854, Message Queue Length: 0, Logical Clock Time: 239
+Internal event. System Time: 1678250260.0178912, Logical Clock Time: 240
+Sent to clients 0, 1. System Time: 1678250260.017982, Logical Clock Time: 241
+Sent client 0. System Time: 1678250260.018006, Logical Clock Time: 242
+Internal event. System Time: 1678250260.018014, Logical Clock Time: 243
+Sent client 1. System Time: 1678250260.018168, Logical Clock Time: 244
+Received message. Global Time: 1678250261.021912, Message Queue Length: 0, Logical Clock Time: 245
+Internal event. System Time: 1678250261.021944, Logical Clock Time: 246
+Internal event. System Time: 1678250261.0219572, Logical Clock Time: 247
+Internal event. System Time: 1678250261.021966, Logical Clock Time: 248
+Internal event. System Time: 1678250261.021973, Logical Clock Time: 249
+Sent client 1. System Time: 1678250261.022024, Logical Clock Time: 250
+Received message. Global Time: 1678250262.022143, Message Queue Length: 2, Logical Clock Time: 251
+Received message. Global Time: 1678250262.022166, Message Queue Length: 1, Logical Clock Time: 252
+Received message. Global Time: 1678250262.022175, Message Queue Length: 0, Logical Clock Time: 253
+Internal event. System Time: 1678250262.0222049, Logical Clock Time: 254
+Sent client 1. System Time: 1678250262.02229, Logical Clock Time: 255
+Sent to clients 0, 1. System Time: 1678250262.022358, Logical Clock Time: 256
+Received message. Global Time: 1678250263.023603, Message Queue Length: 0, Logical Clock Time: 259
+Sent to clients 0, 1. System Time: 1678250263.023747, Logical Clock Time: 260
+Internal event. System Time: 1678250263.023767, Logical Clock Time: 261
+Sent to clients 0, 1. System Time: 1678250263.023811, Logical Clock Time: 262
+Sent client 0. System Time: 1678250263.0238342, Logical Clock Time: 263
+Internal event. System Time: 1678250263.023846, Logical Clock Time: 264
+Received message. Global Time: 1678250264.024128, Message Queue Length: 0, Logical Clock Time: 265
+Internal event. System Time: 1678250264.024152, Logical Clock Time: 266
+Internal event. System Time: 1678250264.02416, Logical Clock Time: 267
+Internal event. System Time: 1678250264.0241659, Logical Clock Time: 268
+Internal event. System Time: 1678250264.02417, Logical Clock Time: 269
+Sent client 1. System Time: 1678250264.024204, Logical Clock Time: 270
+Received message. Global Time: 1678250265.026266, Message Queue Length: 1, Logical Clock Time: 271
+Received message. Global Time: 1678250265.0262861, Message Queue Length: 0, Logical Clock Time: 272
+Internal event. System Time: 1678250265.026313, Logical Clock Time: 273
+Sent client 1. System Time: 1678250265.026382, Logical Clock Time: 274
+Internal event. System Time: 1678250265.026398, Logical Clock Time: 275
+Internal event. System Time: 1678250265.026407, Logical Clock Time: 276
+Received message. Global Time: 1678250266.028939, Message Queue Length: 0, Logical Clock Time: 277
+Sent client 1. System Time: 1678250266.029001, Logical Clock Time: 278
+Internal event. System Time: 1678250266.0290098, Logical Clock Time: 279
+Internal event. System Time: 1678250266.029014, Logical Clock Time: 280
+Internal event. System Time: 1678250266.029017, Logical Clock Time: 281
+Internal event. System Time: 1678250266.0290189, Logical Clock Time: 282
+Received message. Global Time: 1678250267.033476, Message Queue Length: 0, Logical Clock Time: 283
+Internal event. System Time: 1678250267.0335228, Logical Clock Time: 284
+Internal event. System Time: 1678250267.033537, Logical Clock Time: 285
+Sent client 0. System Time: 1678250267.033688, Logical Clock Time: 286
+Internal event. System Time: 1678250267.0337322, Logical Clock Time: 287
+Internal event. System Time: 1678250267.033746, Logical Clock Time: 288
+Internal event. System Time: 1678250268.038435, Logical Clock Time: 289
+Sent client 0. System Time: 1678250268.038549, Logical Clock Time: 290
+Internal event. System Time: 1678250268.03857, Logical Clock Time: 291
+Sent to clients 0, 1. System Time: 1678250268.038671, Logical Clock Time: 292
+Internal event. System Time: 1678250268.0386949, Logical Clock Time: 293
+Sent client 1. System Time: 1678250268.038814, Logical Clock Time: 294
+Received message. Global Time: 1678250269.039874, Message Queue Length: 0, Logical Clock Time: 295
+Internal event. System Time: 1678250269.039973, Logical Clock Time: 296
+Sent to clients 0, 1. System Time: 1678250269.0400388, Logical Clock Time: 297
+Internal event. System Time: 1678250269.0400488, Logical Clock Time: 298
+Internal event. System Time: 1678250269.040053, Logical Clock Time: 299
+Internal event. System Time: 1678250269.0400572, Logical Clock Time: 300
+Received message. Global Time: 1678250270.041108, Message Queue Length: 1, Logical Clock Time: 301
+Received message. Global Time: 1678250270.041118, Message Queue Length: 0, Logical Clock Time: 302
+Internal event. System Time: 1678250270.04113, Logical Clock Time: 303
+Internal event. System Time: 1678250270.041134, Logical Clock Time: 304
+Sent client 1. System Time: 1678250270.04118, Logical Clock Time: 305
+Internal event. System Time: 1678250270.041194, Logical Clock Time: 306
+Received message. Global Time: 1678250271.0458272, Message Queue Length: 0, Logical Clock Time: 307
+Internal event. System Time: 1678250271.0458722, Logical Clock Time: 308
+Internal event. System Time: 1678250271.045898, Logical Clock Time: 309
+Internal event. System Time: 1678250271.045908, Logical Clock Time: 310
+Internal event. System Time: 1678250271.0459158, Logical Clock Time: 311
+Internal event. System Time: 1678250271.0459251, Logical Clock Time: 312
+Sent client 1. System Time: 1678250272.049448, Logical Clock Time: 313
+Internal event. System Time: 1678250272.0494652, Logical Clock Time: 314
+Internal event. System Time: 1678250272.049471, Logical Clock Time: 315
+Internal event. System Time: 1678250272.049475, Logical Clock Time: 316
+Internal event. System Time: 1678250272.049479, Logical Clock Time: 317
+Sent client 1. System Time: 1678250272.049498, Logical Clock Time: 318
+Received message. Global Time: 1678250273.057152, Message Queue Length: 1, Logical Clock Time: 319
+Received message. Global Time: 1678250273.0571651, Message Queue Length: 0, Logical Clock Time: 320
+Sent client 1. System Time: 1678250273.057248, Logical Clock Time: 321
+Sent client 1. System Time: 1678250273.057285, Logical Clock Time: 322
+Sent client 1. System Time: 1678250273.0573068, Logical Clock Time: 323
+Internal event. System Time: 1678250273.057313, Logical Clock Time: 324
+Received message. Global Time: 1678250274.058957, Message Queue Length: 0, Logical Clock Time: 325
+Internal event. System Time: 1678250274.059121, Logical Clock Time: 326
+Internal event. System Time: 1678250274.0591512, Logical Clock Time: 327
+Internal event. System Time: 1678250274.059165, Logical Clock Time: 328
+Internal event. System Time: 1678250274.059177, Logical Clock Time: 329
+Internal event. System Time: 1678250274.0591848, Logical Clock Time: 330
+Internal event. System Time: 1678250275.059073, Logical Clock Time: 331
+Sent client 1. System Time: 1678250275.0591638, Logical Clock Time: 332
+Internal event. System Time: 1678250275.059179, Logical Clock Time: 333
+Internal event. System Time: 1678250275.059186, Logical Clock Time: 334
+Internal event. System Time: 1678250275.0591931, Logical Clock Time: 335
+Internal event. System Time: 1678250275.059199, Logical Clock Time: 336
+Received message. Global Time: 1678250276.0596192, Message Queue Length: 1, Logical Clock Time: 337
+Received message. Global Time: 1678250276.059646, Message Queue Length: 0, Logical Clock Time: 338
+Internal event. System Time: 1678250276.059675, Logical Clock Time: 339
+Internal event. System Time: 1678250276.059687, Logical Clock Time: 340
+Sent to clients 0, 1. System Time: 1678250276.059809, Logical Clock Time: 341
+Sent client 0. System Time: 1678250276.059843, Logical Clock Time: 342
+Received message. Global Time: 1678250277.0599391, Message Queue Length: 0, Logical Clock Time: 344
+Sent client 1. System Time: 1678250277.059989, Logical Clock Time: 345
+Internal event. System Time: 1678250277.060004, Logical Clock Time: 346
+Internal event. System Time: 1678250277.060008, Logical Clock Time: 347
+Internal event. System Time: 1678250277.06001, Logical Clock Time: 348
+Internal event. System Time: 1678250277.060013, Logical Clock Time: 349
+Internal event. System Time: 1678250278.065143, Logical Clock Time: 350
+Sent client 0. System Time: 1678250278.06526, Logical Clock Time: 351
+Internal event. System Time: 1678250278.065326, Logical Clock Time: 352
+Internal event. System Time: 1678250278.0653398, Logical Clock Time: 353
+Internal event. System Time: 1678250278.0653498, Logical Clock Time: 354
+Internal event. System Time: 1678250278.0653582, Logical Clock Time: 355
+Received message. Global Time: 1678250279.070026, Message Queue Length: 2, Logical Clock Time: 356
+Received message. Global Time: 1678250279.0700538, Message Queue Length: 1, Logical Clock Time: 357
+Received message. Global Time: 1678250279.070064, Message Queue Length: 0, Logical Clock Time: 358
+Internal event. System Time: 1678250279.070094, Logical Clock Time: 359
+Internal event. System Time: 1678250279.070111, Logical Clock Time: 360
+Sent client 0. System Time: 1678250279.070293, Logical Clock Time: 361
+Received message. Global Time: 1678250280.075218, Message Queue Length: 1, Logical Clock Time: 362
+Received message. Global Time: 1678250280.0752451, Message Queue Length: 0, Logical Clock Time: 363
+Sent client 1. System Time: 1678250280.075365, Logical Clock Time: 364
+Internal event. System Time: 1678250280.0753899, Logical Clock Time: 365
+Sent client 0. System Time: 1678250280.075434, Logical Clock Time: 366
+Sent to clients 0, 1. System Time: 1678250280.0754821, Logical Clock Time: 367
+Received message. Global Time: 1678250281.078762, Message Queue Length: 1, Logical Clock Time: 369
+Received message. Global Time: 1678250281.078784, Message Queue Length: 0, Logical Clock Time: 370
+Sent to clients 0, 1. System Time: 1678250281.078954, Logical Clock Time: 371
+Internal event. System Time: 1678250281.0789728, Logical Clock Time: 372
+Internal event. System Time: 1678250281.079055, Logical Clock Time: 373
+Internal event. System Time: 1678250281.079065, Logical Clock Time: 374
+Received message. Global Time: 1678250282.079963, Message Queue Length: 0, Logical Clock Time: 376
+Internal event. System Time: 1678250282.080002, Logical Clock Time: 377
+Sent client 0. System Time: 1678250282.0800881, Logical Clock Time: 378
+Sent client 0. System Time: 1678250282.080126, Logical Clock Time: 379
+Sent client 0. System Time: 1678250282.080145, Logical Clock Time: 380
+Internal event. System Time: 1678250282.080155, Logical Clock Time: 381
+Received message. Global Time: 1678250283.0842419, Message Queue Length: 2, Logical Clock Time: 382
+Received message. Global Time: 1678250283.08427, Message Queue Length: 1, Logical Clock Time: 383
+Received message. Global Time: 1678250283.084278, Message Queue Length: 0, Logical Clock Time: 384
+Internal event. System Time: 1678250283.084307, Logical Clock Time: 385
+Internal event. System Time: 1678250283.0843189, Logical Clock Time: 386
+Sent to clients 0, 1. System Time: 1678250283.084419, Logical Clock Time: 387
+Received message. Global Time: 1678250284.0859551, Message Queue Length: 2, Logical Clock Time: 388
+Received message. Global Time: 1678250284.085969, Message Queue Length: 1, Logical Clock Time: 389
+Received message. Global Time: 1678250284.085973, Message Queue Length: 0, Logical Clock Time: 390
+Internal event. System Time: 1678250284.085988, Logical Clock Time: 391
+Internal event. System Time: 1678250284.085994, Logical Clock Time: 392
+Internal event. System Time: 1678250284.085998, Logical Clock Time: 393
+Received message. Global Time: 1678250285.0909388, Message Queue Length: 0, Logical Clock Time: 394
+Internal event. System Time: 1678250285.090969, Logical Clock Time: 395
+Internal event. System Time: 1678250285.09098, Logical Clock Time: 396
+Sent client 0. System Time: 1678250285.091027, Logical Clock Time: 397
+Sent to clients 0, 1. System Time: 1678250285.0910652, Logical Clock Time: 398
+Internal event. System Time: 1678250285.0910752, Logical Clock Time: 399
+Received message. Global Time: 1678250286.095198, Message Queue Length: 1, Logical Clock Time: 400
+Received message. Global Time: 1678250286.0952241, Message Queue Length: 0, Logical Clock Time: 401
+Internal event. System Time: 1678250286.095254, Logical Clock Time: 402
+Internal event. System Time: 1678250286.095268, Logical Clock Time: 403
+Internal event. System Time: 1678250286.095277, Logical Clock Time: 404
+Internal event. System Time: 1678250286.0952861, Logical Clock Time: 405
+Received message. Global Time: 1678250287.097316, Message Queue Length: 0, Logical Clock Time: 406
+Sent client 0. System Time: 1678250287.097451, Logical Clock Time: 407
+Internal event. System Time: 1678250287.0974772, Logical Clock Time: 408
+Internal event. System Time: 1678250287.0974889, Logical Clock Time: 409
+Internal event. System Time: 1678250287.0974998, Logical Clock Time: 410
+Internal event. System Time: 1678250287.0975628, Logical Clock Time: 411
+Sent to clients 0, 1. System Time: 1678250288.100766, Logical Clock Time: 412
+Received message. Global Time: 1678250288.100801, Message Queue Length: 0, Logical Clock Time: 413
+Sent client 1. System Time: 1678250288.100945, Logical Clock Time: 414
+Received message. Global Time: 1678250288.100977, Message Queue Length: 0, Logical Clock Time: 416
+Internal event. System Time: 1678250288.1010041, Logical Clock Time: 417
+Internal event. System Time: 1678250288.1010182, Logical Clock Time: 418
+Internal event. System Time: 1678250289.101102, Logical Clock Time: 419
+Internal event. System Time: 1678250289.10113, Logical Clock Time: 420
+Sent client 1. System Time: 1678250289.101237, Logical Clock Time: 421
+Sent client 0. System Time: 1678250289.1013708, Logical Clock Time: 422
+Internal event. System Time: 1678250289.101425, Logical Clock Time: 423
+Internal event. System Time: 1678250289.101442, Logical Clock Time: 424
+Received message. Global Time: 1678250290.105729, Message Queue Length: 2, Logical Clock Time: 425
+Received message. Global Time: 1678250290.1057541, Message Queue Length: 1, Logical Clock Time: 426
+Received message. Global Time: 1678250290.105763, Message Queue Length: 0, Logical Clock Time: 427
+Internal event. System Time: 1678250290.105789, Logical Clock Time: 428
+Sent client 1. System Time: 1678250290.1058922, Logical Clock Time: 429
+Internal event. System Time: 1678250290.105909, Logical Clock Time: 430
+Received message. Global Time: 1678250291.110952, Message Queue Length: 0, Logical Clock Time: 431
+Sent client 1. System Time: 1678250291.1110861, Logical Clock Time: 432
+Internal event. System Time: 1678250291.11111, Logical Clock Time: 433
+Internal event. System Time: 1678250291.111121, Logical Clock Time: 434
+Sent client 1. System Time: 1678250291.1111512, Logical Clock Time: 435
+Sent to clients 0, 1. System Time: 1678250291.1112041, Logical Clock Time: 436
+Internal event. System Time: 1678250292.113299, Logical Clock Time: 437
+Internal event. System Time: 1678250292.113323, Logical Clock Time: 438
+Internal event. System Time: 1678250292.113333, Logical Clock Time: 439
+Internal event. System Time: 1678250292.113343, Logical Clock Time: 440
+Internal event. System Time: 1678250292.1133509, Logical Clock Time: 441
+Internal event. System Time: 1678250292.1133618, Logical Clock Time: 442
+Received message. Global Time: 1678250293.114913, Message Queue Length: 0, Logical Clock Time: 443
+Internal event. System Time: 1678250293.114958, Logical Clock Time: 444
+Internal event. System Time: 1678250293.1149719, Logical Clock Time: 445
+Internal event. System Time: 1678250293.1149812, Logical Clock Time: 446
+Internal event. System Time: 1678250293.11499, Logical Clock Time: 447
+Internal event. System Time: 1678250293.114998, Logical Clock Time: 448
+Received message. Global Time: 1678250294.115885, Message Queue Length: 1, Logical Clock Time: 449
+Received message. Global Time: 1678250294.1158981, Message Queue Length: 0, Logical Clock Time: 450
+Internal event. System Time: 1678250294.115917, Logical Clock Time: 451
+Sent to clients 0, 1. System Time: 1678250294.116, Logical Clock Time: 452
+Internal event. System Time: 1678250294.116009, Logical Clock Time: 453
+Internal event. System Time: 1678250294.116014, Logical Clock Time: 454
+Received message. Global Time: 1678250295.119908, Message Queue Length: 0, Logical Clock Time: 455
+Sent client 1. System Time: 1678250295.119991, Logical Clock Time: 456
+Internal event. System Time: 1678250295.119999, Logical Clock Time: 457
+Sent client 1. System Time: 1678250295.12002, Logical Clock Time: 458
+Internal event. System Time: 1678250295.1200252, Logical Clock Time: 459
+Internal event. System Time: 1678250295.120029, Logical Clock Time: 460
+Received message. Global Time: 1678250296.123457, Message Queue Length: 1, Logical Clock Time: 461
+Received message. Global Time: 1678250296.1235468, Message Queue Length: 0, Logical Clock Time: 462
+Internal event. System Time: 1678250296.123588, Logical Clock Time: 463
+Sent client 1. System Time: 1678250296.123713, Logical Clock Time: 464
+Internal event. System Time: 1678250296.123751, Logical Clock Time: 465
+Internal event. System Time: 1678250296.123764, Logical Clock Time: 466
+Received message. Global Time: 1678250297.126416, Message Queue Length: 2, Logical Clock Time: 467
+Received message. Global Time: 1678250297.126442, Message Queue Length: 1, Logical Clock Time: 468
+Received message. Global Time: 1678250297.1264482, Message Queue Length: 0, Logical Clock Time: 469
+Internal event. System Time: 1678250297.1264708, Logical Clock Time: 470
+Internal event. System Time: 1678250297.1264791, Logical Clock Time: 471
+Internal event. System Time: 1678250297.126486, Logical Clock Time: 472
+Received message. Global Time: 1678250298.1268322, Message Queue Length: 0, Logical Clock Time: 473
+Internal event. System Time: 1678250298.126875, Logical Clock Time: 474
+Internal event. System Time: 1678250298.126891, Logical Clock Time: 475
+Internal event. System Time: 1678250298.126901, Logical Clock Time: 476
+Internal event. System Time: 1678250298.12691, Logical Clock Time: 477
+Internal event. System Time: 1678250298.126919, Logical Clock Time: 478
+Internal event. System Time: 1678250299.127691, Logical Clock Time: 479
+Internal event. System Time: 1678250299.127715, Logical Clock Time: 480
+Internal event. System Time: 1678250299.1277251, Logical Clock Time: 481
+Internal event. System Time: 1678250299.127734, Logical Clock Time: 482
+Sent to clients 0, 1. System Time: 1678250299.1278331, Logical Clock Time: 483
+Sent client 1. System Time: 1678250299.127855, Logical Clock Time: 484
+Internal event. System Time: 1678250300.132851, Logical Clock Time: 485
+Internal event. System Time: 1678250300.132875, Logical Clock Time: 486
+Internal event. System Time: 1678250300.132885, Logical Clock Time: 487
+Sent to clients 0, 1. System Time: 1678250300.1330009, Logical Clock Time: 488
+Sent to clients 0, 1. System Time: 1678250300.133044, Logical Clock Time: 489
+Internal event. System Time: 1678250300.133056, Logical Clock Time: 490
+Internal event. System Time: 1678250301.1350431, Logical Clock Time: 491
+Internal event. System Time: 1678250301.135068, Logical Clock Time: 492
+Internal event. System Time: 1678250301.1350799, Logical Clock Time: 493
+Sent client 1. System Time: 1678250301.135181, Logical Clock Time: 494
+Internal event. System Time: 1678250301.135201, Logical Clock Time: 495
+Internal event. System Time: 1678250301.1352131, Logical Clock Time: 496
+Sent to clients 0, 1. System Time: 1678250302.135374, Logical Clock Time: 497
+Sent to clients 0, 1. System Time: 1678250302.135455, Logical Clock Time: 498
+Sent client 1. System Time: 1678250302.135487, Logical Clock Time: 499
+Sent client 0. System Time: 1678250302.135512, Logical Clock Time: 500
+Internal event. System Time: 1678250302.135524, Logical Clock Time: 501
+Internal event. System Time: 1678250302.135533, Logical Clock Time: 502
+Internal event. System Time: 1678250303.136107, Logical Clock Time: 503
+Internal event. System Time: 1678250303.13613, Logical Clock Time: 504
+Internal event. System Time: 1678250303.136142, Logical Clock Time: 505
+Internal event. System Time: 1678250303.136152, Logical Clock Time: 506
+Internal event. System Time: 1678250303.136161, Logical Clock Time: 507
+Internal event. System Time: 1678250303.13617, Logical Clock Time: 508
+Sent client 0. System Time: 1678250304.140278, Logical Clock Time: 509
+Sent to clients 0, 1. System Time: 1678250304.1403258, Logical Clock Time: 510
+Internal event. System Time: 1678250304.140333, Logical Clock Time: 511
+Sent to clients 0, 1. System Time: 1678250304.140353, Logical Clock Time: 512
+Internal event. System Time: 1678250304.140357, Logical Clock Time: 513
+Internal event. System Time: 1678250304.140361, Logical Clock Time: 514
+Received message. Global Time: 1678250305.140958, Message Queue Length: 0, Logical Clock Time: 515
+Sent to clients 0, 1. System Time: 1678250305.141023, Logical Clock Time: 516
+Internal event. System Time: 1678250305.141032, Logical Clock Time: 517
+Internal event. System Time: 1678250305.141036, Logical Clock Time: 518
+Internal event. System Time: 1678250305.14104, Logical Clock Time: 519
+Internal event. System Time: 1678250305.141044, Logical Clock Time: 520
+Received message. Global Time: 1678250306.144665, Message Queue Length: 1, Logical Clock Time: 521
+Received message. Global Time: 1678250306.144723, Message Queue Length: 0, Logical Clock Time: 522
+Internal event. System Time: 1678250306.144746, Logical Clock Time: 523
+Internal event. System Time: 1678250306.1448052, Logical Clock Time: 524
+Internal event. System Time: 1678250306.14482, Logical Clock Time: 525
+Internal event. System Time: 1678250306.1448278, Logical Clock Time: 526
+Received message. Global Time: 1678250307.149655, Message Queue Length: 3, Logical Clock Time: 527
+Received message. Global Time: 1678250307.14967, Message Queue Length: 2, Logical Clock Time: 528
+Received message. Global Time: 1678250307.149675, Message Queue Length: 1, Logical Clock Time: 529
+Received message. Global Time: 1678250307.149678, Message Queue Length: 0, Logical Clock Time: 530
+Sent to clients 0, 1. System Time: 1678250307.149756, Logical Clock Time: 531
+Internal event. System Time: 1678250307.149766, Logical Clock Time: 532
+Received message. Global Time: 1678250308.14973, Message Queue Length: 0, Logical Clock Time: 533
+Sent client 1. System Time: 1678250308.149803, Logical Clock Time: 534
+Internal event. System Time: 1678250308.149812, Logical Clock Time: 535
+Internal event. System Time: 1678250308.149817, Logical Clock Time: 536
+Internal event. System Time: 1678250308.149865, Logical Clock Time: 537
+Sent client 1. System Time: 1678250308.1499221, Logical Clock Time: 538
+Received message. Global Time: 1678250309.152513, Message Queue Length: 0, Logical Clock Time: 539
+Internal event. System Time: 1678250309.152558, Logical Clock Time: 540
+Sent to clients 0, 1. System Time: 1678250309.1526709, Logical Clock Time: 541
+Sent to clients 0, 1. System Time: 1678250309.152721, Logical Clock Time: 542
+Internal event. System Time: 1678250309.152734, Logical Clock Time: 543
+Sent client 0. System Time: 1678250309.152836, Logical Clock Time: 544
+Received message. Global Time: 1678250310.154885, Message Queue Length: 0, Logical Clock Time: 545
+Internal event. System Time: 1678250310.1549141, Logical Clock Time: 546
+Internal event. System Time: 1678250310.1549199, Logical Clock Time: 547
+Internal event. System Time: 1678250310.154925, Logical Clock Time: 548
+Internal event. System Time: 1678250310.154929, Logical Clock Time: 549
+Sent client 0. System Time: 1678250310.155023, Logical Clock Time: 550
+Internal event. System Time: 1678250311.155896, Logical Clock Time: 551
+Internal event. System Time: 1678250311.1559198, Logical Clock Time: 552
+Internal event. System Time: 1678250311.155931, Logical Clock Time: 553
+Internal event. System Time: 1678250311.155941, Logical Clock Time: 554
+Internal event. System Time: 1678250311.15595, Logical Clock Time: 555
+Internal event. System Time: 1678250311.155958, Logical Clock Time: 556
+Received message. Global Time: 1678250312.1583, Message Queue Length: 0, Logical Clock Time: 557
+Sent client 0. System Time: 1678250312.1584058, Logical Clock Time: 558
+Sent client 1. System Time: 1678250312.158457, Logical Clock Time: 559
+Internal event. System Time: 1678250312.1584718, Logical Clock Time: 560
+Internal event. System Time: 1678250312.158481, Logical Clock Time: 561
+Internal event. System Time: 1678250312.1584902, Logical Clock Time: 562
+Received message. Global Time: 1678250313.1608162, Message Queue Length: 1, Logical Clock Time: 563
+Received message. Global Time: 1678250313.1608388, Message Queue Length: 0, Logical Clock Time: 564
+Internal event. System Time: 1678250313.160867, Logical Clock Time: 565
+Internal event. System Time: 1678250313.16088, Logical Clock Time: 566
+Sent client 0. System Time: 1678250313.1609468, Logical Clock Time: 567
+Sent client 1. System Time: 1678250313.160989, Logical Clock Time: 568
+Received message. Global Time: 1678250314.1641011, Message Queue Length: 0, Logical Clock Time: 569
+Sent client 0. System Time: 1678250314.164232, Logical Clock Time: 570
+Sent client 1. System Time: 1678250314.164284, Logical Clock Time: 571
+Sent client 0. System Time: 1678250314.1643178, Logical Clock Time: 572
+Internal event. System Time: 1678250314.16433, Logical Clock Time: 573
+Internal event. System Time: 1678250314.1643388, Logical Clock Time: 574
+Received message. Global Time: 1678250315.16677, Message Queue Length: 0, Logical Clock Time: 575
+Internal event. System Time: 1678250315.166815, Logical Clock Time: 576
+Sent client 1. System Time: 1678250315.166902, Logical Clock Time: 577
+Internal event. System Time: 1678250315.16692, Logical Clock Time: 578
+Internal event. System Time: 1678250315.166929, Logical Clock Time: 579
+Internal event. System Time: 1678250315.1669388, Logical Clock Time: 580
+Received message. Global Time: 1678250316.171947, Message Queue Length: 2, Logical Clock Time: 581
+Received message. Global Time: 1678250316.171974, Message Queue Length: 1, Logical Clock Time: 582
+Received message. Global Time: 1678250316.171983, Message Queue Length: 0, Logical Clock Time: 583
+Internal event. System Time: 1678250316.172011, Logical Clock Time: 584
+Internal event. System Time: 1678250316.1720252, Logical Clock Time: 585
+Sent client 1. System Time: 1678250316.172128, Logical Clock Time: 586
+Sent client 1. System Time: 1678250317.172794, Logical Clock Time: 587
+Internal event. System Time: 1678250317.1728141, Logical Clock Time: 588
+Internal event. System Time: 1678250317.172822, Logical Clock Time: 589
+Sent client 0. System Time: 1678250317.17285, Logical Clock Time: 590
+Internal event. System Time: 1678250317.17286, Logical Clock Time: 591
+Sent client 0. System Time: 1678250317.172878, Logical Clock Time: 592
+Sent client 1. System Time: 1678250318.176197, Logical Clock Time: 593
+Internal event. System Time: 1678250318.176218, Logical Clock Time: 594
+Internal event. System Time: 1678250318.1762261, Logical Clock Time: 595
+Sent client 1. System Time: 1678250318.176256, Logical Clock Time: 596
+Sent client 1. System Time: 1678250318.17627, Logical Clock Time: 597
+Internal event. System Time: 1678250318.176275, Logical Clock Time: 598
+Internal event. System Time: 1678250319.17632, Logical Clock Time: 599
+Internal event. System Time: 1678250319.176337, Logical Clock Time: 600
+Internal event. System Time: 1678250319.176345, Logical Clock Time: 601
+Internal event. System Time: 1678250319.176351, Logical Clock Time: 602
+Internal event. System Time: 1678250319.176357, Logical Clock Time: 603
+Internal event. System Time: 1678250319.176363, Logical Clock Time: 604
+Internal event. System Time: 1678250320.181196, Logical Clock Time: 605
+Sent client 1. System Time: 1678250320.1812758, Logical Clock Time: 606
+Internal event. System Time: 1678250320.181324, Logical Clock Time: 607
+Internal event. System Time: 1678250320.181333, Logical Clock Time: 608
+Internal event. System Time: 1678250320.181338, Logical Clock Time: 609
+Sent client 1. System Time: 1678250320.1813672, Logical Clock Time: 610
+Internal event. System Time: 1678250321.1854432, Logical Clock Time: 611
+Sent client 0. System Time: 1678250321.18555, Logical Clock Time: 612
+Internal event. System Time: 1678250321.185568, Logical Clock Time: 613
+Internal event. System Time: 1678250321.1855779, Logical Clock Time: 614
+Sent client 1. System Time: 1678250321.1856189, Logical Clock Time: 615
+Internal event. System Time: 1678250321.1856341, Logical Clock Time: 616
+Sent client 1. System Time: 1678250322.189595, Logical Clock Time: 617
+Sent to clients 0, 1. System Time: 1678250322.189842, Logical Clock Time: 618
+Received message. Global Time: 1678250322.189882, Message Queue Length: 0, Logical Clock Time: 619
+Sent client 0. System Time: 1678250322.1899729, Logical Clock Time: 620
+Sent to clients 0, 1. System Time: 1678250322.190111, Logical Clock Time: 621
+Internal event. System Time: 1678250322.190162, Logical Clock Time: 622
+Received message. Global Time: 1678250323.19156, Message Queue Length: 0, Logical Clock Time: 623
+Internal event. System Time: 1678250323.191585, Logical Clock Time: 624
+Internal event. System Time: 1678250323.191592, Logical Clock Time: 625
+Internal event. System Time: 1678250323.191597, Logical Clock Time: 626
+Sent client 1. System Time: 1678250323.1916459, Logical Clock Time: 627
+Internal event. System Time: 1678250323.191653, Logical Clock Time: 628
+Internal event. System Time: 1678250324.1963031, Logical Clock Time: 629
+Internal event. System Time: 1678250324.196327, Logical Clock Time: 630
+Internal event. System Time: 1678250324.196338, Logical Clock Time: 631
+Internal event. System Time: 1678250324.196347, Logical Clock Time: 632
+Sent to clients 0, 1. System Time: 1678250324.19643, Logical Clock Time: 633
+Internal event. System Time: 1678250324.196446, Logical Clock Time: 634
+Internal event. System Time: 1678250325.1999848, Logical Clock Time: 635
+Sent to clients 0, 1. System Time: 1678250325.200073, Logical Clock Time: 636
+Internal event. System Time: 1678250325.200091, Logical Clock Time: 637
+Internal event. System Time: 1678250325.200097, Logical Clock Time: 638
+Internal event. System Time: 1678250325.2001011, Logical Clock Time: 639
+Internal event. System Time: 1678250325.200106, Logical Clock Time: 640
+Received message. Global Time: 1678250326.203258, Message Queue Length: 0, Logical Clock Time: 641
+Internal event. System Time: 1678250326.203292, Logical Clock Time: 642
+Internal event. System Time: 1678250326.2033029, Logical Clock Time: 643
+Internal event. System Time: 1678250326.2033112, Logical Clock Time: 644
+Internal event. System Time: 1678250326.203317, Logical Clock Time: 645
+Internal event. System Time: 1678250326.203323, Logical Clock Time: 646
+Internal event. System Time: 1678250327.207343, Logical Clock Time: 647
+Sent to clients 0, 1. System Time: 1678250327.207466, Logical Clock Time: 648
+Internal event. System Time: 1678250327.207488, Logical Clock Time: 649
+Sent to clients 0, 1. System Time: 1678250327.2075799, Logical Clock Time: 650
+Internal event. System Time: 1678250327.207639, Logical Clock Time: 651
+Internal event. System Time: 1678250327.207656, Logical Clock Time: 652
+Received message. Global Time: 1678250328.210847, Message Queue Length: 0, Logical Clock Time: 653
+Internal event. System Time: 1678250328.210894, Logical Clock Time: 654
+Internal event. System Time: 1678250328.210909, Logical Clock Time: 655
+Sent client 0. System Time: 1678250328.2110012, Logical Clock Time: 656
+Sent client 1. System Time: 1678250328.211047, Logical Clock Time: 657
+Sent to clients 0, 1. System Time: 1678250328.211089, Logical Clock Time: 658
+Received message. Global Time: 1678250329.211381, Message Queue Length: 0, Logical Clock Time: 659
+Internal event. System Time: 1678250329.2114282, Logical Clock Time: 660
+Internal event. System Time: 1678250329.211444, Logical Clock Time: 661
+Sent to clients 0, 1. System Time: 1678250329.211564, Logical Clock Time: 662
+Sent client 0. System Time: 1678250329.2115998, Logical Clock Time: 663
+Internal event. System Time: 1678250329.211614, Logical Clock Time: 664
+Received message. Global Time: 1678250330.2129338, Message Queue Length: 1, Logical Clock Time: 665
+Received message. Global Time: 1678250330.2129438, Message Queue Length: 0, Logical Clock Time: 666
+Internal event. System Time: 1678250330.2129622, Logical Clock Time: 667
+Internal event. System Time: 1678250330.2129679, Logical Clock Time: 668
+Internal event. System Time: 1678250330.212972, Logical Clock Time: 669
+Sent client 1. System Time: 1678250330.213005, Logical Clock Time: 670
+Received message. Global Time: 1678250331.216498, Message Queue Length: 0, Logical Clock Time: 671
+Internal event. System Time: 1678250331.216545, Logical Clock Time: 672
+Internal event. System Time: 1678250331.2165608, Logical Clock Time: 673
+Sent client 0. System Time: 1678250331.216654, Logical Clock Time: 674
+Internal event. System Time: 1678250331.216671, Logical Clock Time: 675
+Internal event. System Time: 1678250331.21668, Logical Clock Time: 676
+Internal event. System Time: 1678250332.217757, Logical Clock Time: 677
+Sent to clients 0, 1. System Time: 1678250332.21805, Logical Clock Time: 678
+Internal event. System Time: 1678250332.218101, Logical Clock Time: 679
+Internal event. System Time: 1678250332.218118, Logical Clock Time: 680
+Internal event. System Time: 1678250332.2181382, Logical Clock Time: 681
+Internal event. System Time: 1678250332.2181509, Logical Clock Time: 682
+Received message. Global Time: 1678250333.222964, Message Queue Length: 0, Logical Clock Time: 683
+Internal event. System Time: 1678250333.22301, Logical Clock Time: 684
+Internal event. System Time: 1678250333.223026, Logical Clock Time: 685
+Sent client 0. System Time: 1678250333.223108, Logical Clock Time: 686
+Sent client 0. System Time: 1678250333.2231522, Logical Clock Time: 687
+Sent client 0. System Time: 1678250333.22318, Logical Clock Time: 688
+Received message. Global Time: 1678250334.225077, Message Queue Length: 0, Logical Clock Time: 689
+Sent client 1. System Time: 1678250334.225185, Logical Clock Time: 690
+Internal event. System Time: 1678250334.2252002, Logical Clock Time: 691
+Internal event. System Time: 1678250334.225209, Logical Clock Time: 692
+Internal event. System Time: 1678250334.225216, Logical Clock Time: 693
+Sent client 1. System Time: 1678250334.225267, Logical Clock Time: 694
+Sent to clients 0, 1. System Time: 1678250335.229405, Logical Clock Time: 695
+Internal event. System Time: 1678250335.229434, Logical Clock Time: 696
+Internal event. System Time: 1678250335.2294478, Logical Clock Time: 697
+Internal event. System Time: 1678250335.2294579, Logical Clock Time: 698
+Internal event. System Time: 1678250335.2294679, Logical Clock Time: 699
+Internal event. System Time: 1678250335.229478, Logical Clock Time: 700
+Received message. Global Time: 1678250336.232055, Message Queue Length: 2, Logical Clock Time: 701
+Received message. Global Time: 1678250336.2320662, Message Queue Length: 1, Logical Clock Time: 702
+Received message. Global Time: 1678250336.23207, Message Queue Length: 0, Logical Clock Time: 703
+Sent client 0. System Time: 1678250336.2321558, Logical Clock Time: 704
+Internal event. System Time: 1678250336.2321742, Logical Clock Time: 705
+Internal event. System Time: 1678250336.232179, Logical Clock Time: 706
+Received message. Global Time: 1678250337.236375, Message Queue Length: 0, Logical Clock Time: 707
+Internal event. System Time: 1678250337.2364202, Logical Clock Time: 708
+Internal event. System Time: 1678250337.236436, Logical Clock Time: 709
+Internal event. System Time: 1678250337.236446, Logical Clock Time: 710
+Internal event. System Time: 1678250337.236455, Logical Clock Time: 711
+Internal event. System Time: 1678250337.236465, Logical Clock Time: 712
+Internal event. System Time: 1678250338.2409012, Logical Clock Time: 713
+Internal event. System Time: 1678250338.240912, Logical Clock Time: 714
+Sent to clients 0, 1. System Time: 1678250338.240962, Logical Clock Time: 715
+Internal event. System Time: 1678250338.2409668, Logical Clock Time: 716
+Internal event. System Time: 1678250338.240971, Logical Clock Time: 717
+Internal event. System Time: 1678250338.2409742, Logical Clock Time: 718
+Received message. Global Time: 1678250339.241008, Message Queue Length: 0, Logical Clock Time: 719
+Internal event. System Time: 1678250339.241035, Logical Clock Time: 720
+Internal event. System Time: 1678250339.2410429, Logical Clock Time: 721
+Internal event. System Time: 1678250339.241049, Logical Clock Time: 722
+Internal event. System Time: 1678250339.241054, Logical Clock Time: 723
+Internal event. System Time: 1678250339.241058, Logical Clock Time: 724
+Received message. Global Time: 1678250340.242317, Message Queue Length: 0, Logical Clock Time: 725
+Sent client 1. System Time: 1678250340.242453, Logical Clock Time: 726
+Internal event. System Time: 1678250340.24248, Logical Clock Time: 727
+Internal event. System Time: 1678250340.242493, Logical Clock Time: 728
+Sent client 1. System Time: 1678250340.242532, Logical Clock Time: 729
+Internal event. System Time: 1678250340.2425442, Logical Clock Time: 730
+Received message. Global Time: 1678250341.24335, Message Queue Length: 1, Logical Clock Time: 731
+Received message. Global Time: 1678250341.243375, Message Queue Length: 0, Logical Clock Time: 732
+Internal event. System Time: 1678250341.243403, Logical Clock Time: 733
+Internal event. System Time: 1678250341.243415, Logical Clock Time: 734
+Internal event. System Time: 1678250341.243424, Logical Clock Time: 735
+Internal event. System Time: 1678250341.243433, Logical Clock Time: 736
+Internal event. System Time: 1678250342.243757, Logical Clock Time: 737
+Sent client 1. System Time: 1678250342.2438688, Logical Clock Time: 738
+Internal event. System Time: 1678250342.2438881, Logical Clock Time: 739
+Internal event. System Time: 1678250342.2438982, Logical Clock Time: 740
+Internal event. System Time: 1678250342.2439082, Logical Clock Time: 741
+Internal event. System Time: 1678250342.243916, Logical Clock Time: 742
+Received message. Global Time: 1678250343.248924, Message Queue Length: 1, Logical Clock Time: 743
+Received message. Global Time: 1678250343.248949, Message Queue Length: 0, Logical Clock Time: 744
+Internal event. System Time: 1678250343.248977, Logical Clock Time: 745
+Sent client 0. System Time: 1678250343.2490518, Logical Clock Time: 746
+Internal event. System Time: 1678250343.2490702, Logical Clock Time: 747
+Internal event. System Time: 1678250343.249079, Logical Clock Time: 748
+Received message. Global Time: 1678250344.253539, Message Queue Length: 2, Logical Clock Time: 749
+Received message. Global Time: 1678250344.253551, Message Queue Length: 1, Logical Clock Time: 750
+Received message. Global Time: 1678250344.253556, Message Queue Length: 0, Logical Clock Time: 751
+Internal event. System Time: 1678250344.2535748, Logical Clock Time: 752
+Internal event. System Time: 1678250344.253582, Logical Clock Time: 753
+Internal event. System Time: 1678250344.253587, Logical Clock Time: 754
+Received message. Global Time: 1678250345.257479, Message Queue Length: 0, Logical Clock Time: 755
+Internal event. System Time: 1678250345.257514, Logical Clock Time: 756
+Internal event. System Time: 1678250345.2575219, Logical Clock Time: 757
+Internal event. System Time: 1678250345.257527, Logical Clock Time: 758
+Sent to clients 0, 1. System Time: 1678250345.257687, Logical Clock Time: 759
+Received message. Global Time: 1678250345.2577238, Message Queue Length: 0, Logical Clock Time: 760
+Internal event. System Time: 1678250346.26101, Logical Clock Time: 761
+Internal event. System Time: 1678250346.26103, Logical Clock Time: 762
+Internal event. System Time: 1678250346.261038, Logical Clock Time: 763
+Internal event. System Time: 1678250346.261045, Logical Clock Time: 764
+Internal event. System Time: 1678250346.2610528, Logical Clock Time: 765
+Internal event. System Time: 1678250346.26106, Logical Clock Time: 766
+Internal event. System Time: 1678250347.265392, Logical Clock Time: 767
+Internal event. System Time: 1678250347.26542, Logical Clock Time: 768
+Internal event. System Time: 1678250347.2654321, Logical Clock Time: 769
+Sent client 1. System Time: 1678250347.265506, Logical Clock Time: 770
+Sent to clients 0, 1. System Time: 1678250347.265564, Logical Clock Time: 771
+Internal event. System Time: 1678250347.265577, Logical Clock Time: 772
+Received message. Global Time: 1678250348.266312, Message Queue Length: 0, Logical Clock Time: 773
+Internal event. System Time: 1678250348.266339, Logical Clock Time: 774
+Sent to clients 0, 1. System Time: 1678250348.266415, Logical Clock Time: 775
+Sent to clients 0, 1. System Time: 1678250348.26644, Logical Clock Time: 776
+Sent client 1. System Time: 1678250348.266453, Logical Clock Time: 777
+Internal event. System Time: 1678250348.26646, Logical Clock Time: 778
+Internal event. System Time: 1678250349.266623, Logical Clock Time: 779
+Internal event. System Time: 1678250349.266651, Logical Clock Time: 780
+Sent to clients 0, 1. System Time: 1678250349.26679, Logical Clock Time: 781
+Internal event. System Time: 1678250349.266813, Logical Clock Time: 782
+Internal event. System Time: 1678250349.2668228, Logical Clock Time: 783
+Sent client 1. System Time: 1678250349.266853, Logical Clock Time: 784
+Internal event. System Time: 1678250350.269848, Logical Clock Time: 785
+Internal event. System Time: 1678250350.26988, Logical Clock Time: 786
+Internal event. System Time: 1678250350.2698932, Logical Clock Time: 787
+Internal event. System Time: 1678250350.269904, Logical Clock Time: 788
+Internal event. System Time: 1678250350.2699142, Logical Clock Time: 789
+Internal event. System Time: 1678250350.2699242, Logical Clock Time: 790
+Sent client 0. System Time: 1678250351.270754, Logical Clock Time: 791
+Internal event. System Time: 1678250351.270781, Logical Clock Time: 792
+Internal event. System Time: 1678250351.270792, Logical Clock Time: 793
+Internal event. System Time: 1678250351.2708008, Logical Clock Time: 794
+Sent to clients 0, 1. System Time: 1678250351.270946, Logical Clock Time: 795
+Received message. Global Time: 1678250351.270977, Message Queue Length: 0, Logical Clock Time: 796
+Internal event. System Time: 1678250352.2758982, Logical Clock Time: 797
+Internal event. System Time: 1678250352.275925, Logical Clock Time: 798
+Sent client 1. System Time: 1678250352.276031, Logical Clock Time: 799
+Internal event. System Time: 1678250352.276056, Logical Clock Time: 800
+Internal event. System Time: 1678250352.276066, Logical Clock Time: 801
+Sent client 0. System Time: 1678250352.2761102, Logical Clock Time: 802
+Received message. Global Time: 1678250353.276526, Message Queue Length: 0, Logical Clock Time: 803
+Internal event. System Time: 1678250353.276574, Logical Clock Time: 804
+Internal event. System Time: 1678250353.2765892, Logical Clock Time: 805
+Internal event. System Time: 1678250353.276602, Logical Clock Time: 806
+Internal event. System Time: 1678250353.276615, Logical Clock Time: 807
+Internal event. System Time: 1678250353.2766259, Logical Clock Time: 808
+Internal event. System Time: 1678250354.2778702, Logical Clock Time: 809
+Internal event. System Time: 1678250354.277896, Logical Clock Time: 810
+Sent to clients 0, 1. System Time: 1678250354.278024, Logical Clock Time: 811
+Sent client 1. System Time: 1678250354.2780612, Logical Clock Time: 812
+Sent client 1. System Time: 1678250354.2780921, Logical Clock Time: 813
+Internal event. System Time: 1678250354.278104, Logical Clock Time: 814
+Received message. Global Time: 1678250355.2830741, Message Queue Length: 0, Logical Clock Time: 815
+Internal event. System Time: 1678250355.2831209, Logical Clock Time: 816
+Internal event. System Time: 1678250355.283138, Logical Clock Time: 817
+Internal event. System Time: 1678250355.283149, Logical Clock Time: 818
+Internal event. System Time: 1678250355.283162, Logical Clock Time: 819
+Internal event. System Time: 1678250355.283175, Logical Clock Time: 820
+Sent to clients 0, 1. System Time: 1678250356.283595, Logical Clock Time: 821
+Sent client 0. System Time: 1678250356.283618, Logical Clock Time: 822
+Internal event. System Time: 1678250356.283625, Logical Clock Time: 823
+Sent client 1. System Time: 1678250356.283641, Logical Clock Time: 824
+Internal event. System Time: 1678250356.283648, Logical Clock Time: 825
+Internal event. System Time: 1678250356.283653, Logical Clock Time: 826
+Internal event. System Time: 1678250357.2884622, Logical Clock Time: 827
+Internal event. System Time: 1678250357.2884889, Logical Clock Time: 828
+Internal event. System Time: 1678250357.288501, Logical Clock Time: 829
+Sent to clients 0, 1. System Time: 1678250357.288648, Logical Clock Time: 830
+Internal event. System Time: 1678250357.2888231, Logical Clock Time: 831
+Internal event. System Time: 1678250357.288867, Logical Clock Time: 832
+Internal event. System Time: 1678250358.293254, Logical Clock Time: 833
+Internal event. System Time: 1678250358.29327, Logical Clock Time: 834
+Internal event. System Time: 1678250358.2932758, Logical Clock Time: 835
+Sent to clients 0, 1. System Time: 1678250358.2933881, Logical Clock Time: 836
+Internal event. System Time: 1678250358.293397, Logical Clock Time: 837
+Internal event. System Time: 1678250358.293403, Logical Clock Time: 838
+Internal event. System Time: 1678250359.2947872, Logical Clock Time: 839
+Internal event. System Time: 1678250359.29482, Logical Clock Time: 840
+Sent client 1. System Time: 1678250359.294934, Logical Clock Time: 841
+Internal event. System Time: 1678250359.294955, Logical Clock Time: 842
+Internal event. System Time: 1678250359.294966, Logical Clock Time: 843
+Sent to clients 0, 1. System Time: 1678250359.295048, Logical Clock Time: 844

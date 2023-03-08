@@ -6,8 +6,7 @@ Usage: python3 machine.py MACHINE_NUMBER
 # Import relevant python packages
 from collections import deque
 from random import randint
-from select import select
-from socket import socket, AF_INET, SOCK_STREAM, SOL_SOCKET, SO_SNDBUF
+from socket import socket, AF_INET, SOCK_STREAM
 import sys
 from threading import Thread
 from time import sleep, time
@@ -15,7 +14,7 @@ from time import sleep, time
 # Constants/configurations
 ENCODING           = 'utf-8' # message encoding
 BUFFER_SIZE        = 2048 # fixed 2KB buffer size
-IP_ADDRESS         = '10.250.189.114' # REPLACE ME with output of ipconfig getifaddr en0
+IP_ADDRESS         = '100.90.130.16' # REPLACE ME with output of ipconfig getifaddr en0
 BASE_PORT          = 1234 # base port of the first model machine
 TOTAL_NUM_MACHINES = 3 # total number of model machines
 
@@ -71,7 +70,7 @@ def main():
     client_sockets = create_client_sockets(machine_number)
 
     # Local data structures
-    log_file      = open("log_{}.txt".format(machine_number), "w")
+    log_file      = open("original/run_4/log_{}.txt".format(machine_number), "w")
     clock_rate    = randint(1, 6)
     print ('Clock Rate is {}'.format(clock_rate))
     log_file.write('Clock Rate is {}\n'.format(clock_rate))
